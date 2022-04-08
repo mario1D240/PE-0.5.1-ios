@@ -1,7 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="black.png">
-	<!-- Created with Adobe Animate version 18.0.1.115 -->
-	<!-- http://www.adobe.com/products/animate.html -->
+﻿<TextureAtlas imagePath="black.png">
+
+	
 	<SubTexture name="BLACK DEATH0000" x="0" y="0" width="839" height="682" frameX="-304" frameY="-250" frameWidth="1969" frameHeight="1084"/>
 	<SubTexture name="BLACK DEATH0001" x="869" y="0" width="832" height="683" frameX="-311" frameY="-249" frameWidth="1969" frameHeight="1084"/>
 	<SubTexture name="BLACK DEATH0002" x="1731" y="0" width="835" height="686" frameX="-306" frameY="-246" frameWidth="1969" frameHeight="1084"/>
