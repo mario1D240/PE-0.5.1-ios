@@ -1,7 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
 <TextureAtlas imagePath="defeatDeath.png">
-	<!-- Created with Adobe Animate version 18.0.1.115 -->
-	<!-- http://www.adobe.com/products/animate.html -->
+	
+	
 	<SubTexture name="BF Dead Loop0000" x="0" y="0" width="449" height="509"/>
 	<SubTexture name="BF Dead Loop0001" x="479" y="0" width="449" height="509"/>
 	<SubTexture name="BF Dead Loop0002" x="479" y="0" width="449" height="509"/>
