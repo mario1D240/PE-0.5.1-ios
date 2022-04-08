@@ -1,7 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="impostorPolus.png">
-	<!-- Created with Adobe Animate version 21.0.7.42652 -->
-	<!-- http://www.adobe.com/products/animate.html -->
+﻿<TextureAtlas imagePath="impostorPolus.png">
+
+	 
 	<SubTexture name="imposter left0000" x="4460" y="1679" width="633" height="348" frameX="0" frameY="0" frameWidth="653" frameHeight="348"/>
 	<SubTexture name="imposter left0001" x="4460" y="1679" width="633" height="348" frameX="0" frameY="0" frameWidth="653" frameHeight="348"/>
 	<SubTexture name="imposter left0002" x="2637" y="1943" width="622" height="348" frameX="-31" frameY="0" frameWidth="653" frameHeight="348"/>
