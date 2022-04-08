@@ -1,7 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
 <TextureAtlas imagePath="crewmate.png">
-	<!-- Created with Adobe Animate version 21.0.6.41649 -->
-	<!-- http://www.adobe.com/products/animate.html -->
+
+	
 	<SubTexture name="imposter left0000" x="0" y="0" width="687" height="397" frameX="-10" frameY="0" frameWidth="719" frameHeight="398"/>
 	<SubTexture name="imposter left0001" x="0" y="0" width="687" height="397" frameX="-10" frameY="0" frameWidth="719" frameHeight="398"/>
 	<SubTexture name="imposter left0002" x="717" y="0" width="719" height="393" frameX="0" frameY="-4" frameWidth="719" frameHeight="398"/>
