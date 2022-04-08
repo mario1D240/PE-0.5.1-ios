@@ -1,7 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
 <TextureAtlas imagePath="impostor2.png">
-	<!-- Created with Adobe Animate version 21.0.6.41649 -->
-	<!-- http://www.adobe.com/products/animate.html -->
+
+	
 	<SubTexture name="imposter left0000" x="0" y="0" width="605" height="348" frameX="0" frameY="0" frameWidth="616" frameHeight="371"/>
 	<SubTexture name="imposter left0001" x="0" y="0" width="605" height="348" frameX="0" frameY="0" frameWidth="616" frameHeight="371"/>
 	<SubTexture name="imposter left0002" x="635" y="0" width="604" height="371" frameX="-12" frameY="0" frameWidth="616" frameHeight="371"/>
