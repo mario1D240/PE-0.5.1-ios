@@ -1,7 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
 <TextureAtlas imagePath="among_green_v3_shine.png">
-	<!-- Created with Adobe Animate version 21.0.0.35450 -->
-	<!-- http://www.adobe.com/products/animate.html -->
+
+	
 	<SubTexture name="imposter left0000" x="0" y="0" width="611" height="410" frameX="-2" frameY="-1" frameWidth="646" frameHeight="411"/>
 	<SubTexture name="imposter left0001" x="641" y="0" width="615" height="411" frameX="-1" frameY="0" frameWidth="646" frameHeight="411"/>
 	<SubTexture name="imposter left0002" x="1286" y="0" width="646" height="388" frameX="0" frameY="-23" frameWidth="646" frameHeight="411"/>
